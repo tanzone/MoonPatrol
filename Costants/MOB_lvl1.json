@@ -1,0 +1,200 @@
+{   
+    "LVL"          : "1",
+    "MOVE_SCORE"   : 1,
+    "ALIEN_SCORE"  : 10,
+    "PROPS_SCORE"  : 3,
+    "TANK_SCORE"   : 5,
+
+    "NUM_MAX_ALIEN": 4,
+    "NUM_MAX_TANK" : 1,
+
+    "PROPS_PERCENT_SPAWN": 10,
+    "ALIEN_PERCENT_SPAWN": 10,
+    "ALIEN_PERCENT_SHOOT": 10,
+    "ALIEN_PERCENT_PROP": 10,
+    "TANK_PERCENT_SPAWN": 10,
+    "TANK_PERCENT_SHOOT": 5,
+
+    "TANK_SPEED" : 3,
+    "TANK_LIFE" : 1,
+    "ALIEN_SPEED": 3,
+    "ALIEN_SPEED2": 1,
+    "ALIEN_LIFE": 1,
+
+    "SCORE_LVL_UP" : 1000,
+
+    "ARENA_W"     : 800,
+    "ARENA_H"     : 500,
+
+    "DELTALAND_H" : 70,
+    "DELTAMOUN_H" : 5,
+    "DELTABLUE_H" : 35,
+
+    "IMG_BG_W"    : 509,
+    "IMAGE_LAND_X": 0,
+    "IMAGE_LAND_Y": 514,
+    "IMAGE_LAND_W": 509,
+    "IMAGE_LAND_H": 124,
+    "LAND_X": 0,
+    "LAND_SPEED": 5,
+
+    "IMAGE_MOUNTAIN_X": 0,
+    "IMAGE_MOUNTAIN_Y": 257,
+    "IMAGE_MOUNTAIN_W": 509,
+    "IMAGE_MOUNTAIN_H": 124,
+    "MOUNTAIN_X": 0,
+    "MOUNTAIN_SPEED": 3,
+
+
+    "IMAGE_BlUE_X": 0,
+    "IMAGE_BlUE_Y": 0,
+    "IMAGE_BlUE_W": 509,
+    "IMAGE_BlUE_H": 255,
+    "BLUE_X": 0,
+    "BLUE_SPEED": 2,
+
+    "IMAGES_MOON_PATROL": "https://tomamic.github.io/images/sprites/moon-patrol.png",
+    "IMAGES_MOON_PATROL_BG": "https://tomamic.github.io/images/sprites/moon-patrol-bg.png",
+    
+    "FPS": 60,
+    "GRAVITA": 0.6,
+
+    "IMAGE_HOLE_X": 153,
+    "IMAGE_HOLE_Y": 139,
+    "IMAGE_HOLE_W": 26,
+    "IMAGE_HOLE_H": 23,
+
+    "IMAGE_HOLE2_X": 137,
+    "IMAGE_HOLE2_Y": 139,
+    "IMAGE_HOLE2_W": 15,
+    "IMAGE_HOLE2_H": 15,
+
+    "IMAGE_ROCK_X": 79,
+    "IMAGE_ROCK_Y": 201,
+    "IMAGE_ROCK_W": 15,
+    "IMAGE_ROCK_H": 15,
+
+    "IMAGE_ROCK2_X": 112,
+    "IMAGE_ROCK2_Y": 199,
+    "IMAGE_ROCK2_W": 15,
+    "IMAGE_ROCK2_H": 18,
+
+    "LIFE_HOLE": -1,
+    "LIFE_ROCK": 1,
+    "LIFE_ROCK2": 2,
+    "PROPS_DELTA_DIM": 10,
+  
+    "MOVE_UP": "ArrowUp",
+    "MOVE_DOWN": "ArrowDown",
+    "MOVE_RIGHT": "ArrowRight",
+    "MOVE_LEFT": "ArrowLeft",
+    "SHOOT": "Spacebar",
+
+    "MOVE_UP2": "w",
+    "MOVE_DOWN2": "s",
+    "MOVE_RIGHT2": "d",
+    "MOVE_LEFT2": "a",
+    "SHOOT2": "e",
+    
+    "IMAGE_CAR_X1": 209,
+    "IMAGE_CAR_Y1": 155,
+    "IMAGE_CARUP_X1": 43,
+    "IMAGE_CARUP_Y1": 102,
+    "IMAGE_CARDOWN_X1": 77,
+    "IMAGE_CARDOWN_Y1": 102,
+
+    "IMAGE_CAR_X2": 248,
+    "IMAGE_CAR_Y2": 155,
+    "IMAGE_CARUP_X2": 45,
+    "IMAGE_CARUP_Y2": 151,
+    "IMAGE_CARDOWN_X2": 79,
+    "IMAGE_CARDOWN_Y2": 151,
+
+    "IMAGE_CAR_DIM_W": 35,
+    "IMAGE_CAR_DIM_H": 30,
+
+    "IMAGE_CAR_EXPLOSION1_X": 110,
+    "IMAGE_CAR_EXPLOSION1_Y": 100,
+    "IMAGE_CAR_EXPLOSION1_W": 52,
+    "IMAGE_CAR_EXPLOSION1_H": 30,
+
+    "IMAGE_CAR_EXPLOSION2_X": 164,
+    "IMAGE_CAR_EXPLOSION2_Y": 100,
+    "IMAGE_CAR_EXPLOSION2_W": 45,
+    "IMAGE_CAR_EXPLOSION2_H": 35,
+
+    "IMAGE_CAR_EXPLOSION3_X": 214,
+    "IMAGE_CAR_EXPLOSION3_Y": 100,
+    "IMAGE_CAR_EXPLOSION3_W": 45,
+    "IMAGE_CAR_EXPLOSION3_H": 35,
+
+    "IMAGE_CAR_EXPLOSION4_X": 262,
+    "IMAGE_CAR_EXPLOSION4_Y": 116,
+    "IMAGE_CAR_EXPLOSION4_W": 35,
+    "IMAGE_CAR_EXPLOSION4_H": 20,
+
+    "TIME_EXPLOSION" : 0.4,
+    "STAGE_EXPLOSION" : 4,
+
+    "CAR_SPEED": 4,
+    "CAR_JUMP": 9,
+
+    "IMAGE_BULLET_X": 268,
+    "IMAGE_BULLET_Y": 140,
+    "IMAGE_BULLET_W": 10,
+    "IMAGE_BULLET_H": 10,
+    
+    "BULLET_ROVER_X": 0,
+    "BULLET_ROVER_Y": 1,
+    "BULLET_ALIEN_Y": 2,
+    "BULLET_TANK_X" : 3,
+    "BULLET_SPEED_ROVER_Y": 4,
+    "BULLET_SPEED_ALIEN_Y": 3,
+    "BULLET_SPEED_TANK_X": 4,
+    
+    "IMAGE_ALIEN_X": 66,
+    "IMAGE_ALIEN_Y": 229,
+    "IMAGE_ALIEN_W": 17,
+    "IMAGE_ALIEN_H": 11,
+
+    "IMAGE_ALIEN_X2": 87,
+    "IMAGE_ALIEN_Y2": 226,
+    "IMAGE_ALIEN_W2": 16,
+    "IMAGE_ALIEN_H2": 16,
+
+    "ALIEN_TYPE1" : 1,
+    "ALIEN_TYPE2" : 2,
+
+    "ALIEN_DELTA": 10,
+
+    "IMAGE_TANK_X": 107,
+    "IMAGE_TANK_Y": 244,
+    "IMAGE_TANK_W": 20,
+    "IMAGE_TANK_H": 20,
+    "IMAGE_TANK_DELTA" : 10,
+
+    "GAME_WIN" : "! WINNER !",
+    "GAME_LOSE": "! GAME OVER !",
+    "GAME_LVL" : "! LEVEL UP !",
+
+    "IS_WIN": "Win",
+    "IS_LVL": "LvlUp",
+    "IS_LOSE" : "Lose",
+
+    "FINAL_SCORE": 10000,
+
+    "AUDIO_LOAD_GAME" : "./Audio/MoonPatrol.mp3",
+    "AUDIO_LOAD_MENU" : "./Audio/MenuSong.mp3",
+
+    "MENU_TITLE_X" : 68,
+    "MENU_TITLE_Y" : 3,
+    "MENU_TITLE_W" : 151,
+    "MENU_TITLE_H" : 88,
+    "MENU_DELTA"   : 200,
+
+    "MATRICOLE" : "307720 - 308214",
+
+    "SIZE_STAT": 25,
+    "SIZE_TEXT": 50,
+    "SIZE_TEXT2" : 20
+}
